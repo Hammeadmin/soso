@@ -269,7 +269,7 @@ These yields mean the water-soluble polar compounds were recovered efficiently.
 
 Percentage changes were calculated from Table 4.
 
-| Emulsion | TEWL (g/m²/h) T0 → T30 | Hydration (%) T0 → T30 | Elasticity (N/m) T0 → T30 |
+| Emulsion | TEWL (mg/m²/h) T0 → T30 | Hydration (%) T0 → T30 | Elasticity (N/m) T0 → T30 |
 |---|---|---|---|
 | WE (vehicle) | 15.00 ± 4.66 → 14.30 ± 1.18 (−4.7%) | 32.01 → 34.25 (+7.0%) | 60.12 → 66.19 (+10.1%) |
 | **Beer (Emu1)** | **16.22 ± 5.12 → 10.77 ± 2.22 (−33.6%)** | **35.15 ± 5.93 → 42.26 ± 3.78 (+20.2%)** | **62.33 ± 3.27 → 70.24 ± 2.12 (+12.7%)** |
