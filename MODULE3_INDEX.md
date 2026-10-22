@@ -20,6 +20,10 @@ in the repository**, so Section 3.3 questions cannot be answered from these sour
 
 | D | `Hyer_An introduction to quantitative and qualitative approaches for researchers.pdf` (5 pp.) | Hyer, S. (2024). *South Sudan Medical Journal* 17(4):202–206 | **3.2 assigned article**. Full notes: [`HYER_STUDY_NOTES.md`](HYER_STUDY_NOTES.md) |
 
+| E | `Hoti et al_Cosmetic_Efficacy_and_Sustaina_BSG.pdf` (18 pp.) | Hoti et al. (2026). *Cosmetics* 13(2):63 | **3.3 assigned article**. Full notes: [`HOTI_STUDY_NOTES.md`](HOTI_STUDY_NOTES.md) |
+
+**E (Hoti et al. 2026)** fills the Section 3.3 gap flagged above.
+
 The user confirmed that **D (Hyer 2024)** is the article the Section 3.2 questions are based on.
 
 ---
