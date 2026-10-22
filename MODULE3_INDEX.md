@@ -18,7 +18,9 @@ in the repository**, so Section 3.3 questions cannot be answered from these sour
 | B | `Social Science Research_ Principles Methods and Practices-1 (1).pdf` (159 pp.) | Bhattacherjee, A. (2012). *Social Science Research: Principles, Methods, and Practices* (2nd ed.). USF Scholar Commons, Textbooks Collection 3. | **3.2** candidate (research-methods textbook) |
 | C | `QuantitativeAnalysis-theguideforbeginners-JulianCardenas (1) (1).pdf` (54 pp.) | Cárdenas, J. (2019). *Quantitative Analysis: The Guide for Beginners*. (ResearchGate, book). | **3.2** candidate / quantitative support |
 
-Which of B or C is "the provided article" for Section 3.2 is not stated in the files; confirm from the test sheet.
+| D | `Hyer_An introduction to quantitative and qualitative approaches for researchers.pdf` (5 pp.) | Hyer, S. (2024). *South Sudan Medical Journal* 17(4):202–206 | **3.2 assigned article**. Full notes: [`HYER_STUDY_NOTES.md`](HYER_STUDY_NOTES.md) |
+
+The user confirmed that **D (Hyer 2024)** is the article the Section 3.2 questions are based on.
 
 ---
 
