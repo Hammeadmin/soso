@@ -361,20 +361,48 @@ Percentage changes were calculated from Table 4.
 - **Unclear wording in the abstract on elasticity:** "beer and yeast formulations (62.33→70.24) and yeast
   (61.21→72.13)". From Table 4, the first pair is beer and the second is yeast. Spent grain elasticity (64.33→68.81)
   is not given in the abstract.
-- **Table 4 legend doesn't match the methods:**
-  - The legend says "n = 50 independent experiments" and "two-way ANOVA (treatment × concentration) + Dunnett".
-  - The methods say n = 50 subjects, two-way repeated-measures ANOVA (treatment × time), Holm–Bonferroni.
-  - Table 4 gives **no p-values**, so the claim of significance cannot be checked from the table.
-- **Statistics for the in vitro work:** the methods say one-way ANOVA, but the figure legends say two-way ANOVA.
-- **Figure 5 vs text:** the text says all formulations significantly increased viability, but the figure shows no
-  asterisk for the wort and hop creams. The text also mentions "WF", which is never defined.
-- **Western blot / apoptosis proteins:** these appear in Figure 1 and the discussion, but no Western blot method or
-  result is reported.
-- **pH described as "close to neutrality"** even though 5.7–6.2 is slightly acidic.
-- **Colour stability:** measured only up to **3 months**, while other stability tests ran for up to 12 months.
-- **Conflict of interest:** two authors work for Recusol Srl, yet the authors declare no conflict of interest.
-- **Reference list:** some numbers don't match the text. For example, [18] is cited as the group's earlier beer study,
-  but the reference list gives an unrelated hydration paper.
+
+### Re-verified against the PDF (text and high-resolution figures)
+
+**Confirmed contradictions within the paper:**
+- **Table 4 legend (p. 14) doesn't match the methods (p. 7):**
+  - The legend says "n = 50 **independent experiments**" and "two-way ANOVA (**treatment × concentration**) followed
+    by **Dunnett's**".
+  - The methods say n = 50 **subjects**, "two-way **repeated-measures** ANOVA" (**treatment × time**), with
+    **Holm–Bonferroni** correction.
+  - Table 4 has **no p-values or asterisks**, so the significance claims in 3.9 cannot be checked from the table.
+- **In vitro statistics:** the methods (p. 6) say "**one-way** ANOVA", but the legends of Figures 4, 5 and 6 say
+  "**two-way** ANOVA (treatment × concentration)". Figures 5 and 6 test only one concentration (10 mg/mL).
+- **Figure 5 vs text (p. 9):** the text says "**all** formulations significantly enhanced cell viability". In
+  Figure 5, asterisks appear only on Cream W.F., beer, yeast and spent grain. The **wort and hop creams have none**.
+- **Figure 4 vs text (p. 8):** the text says "açai extract and Trolox did **not** cause significant changes", but
+  Figure 4 shows an **asterisk bracket between Control (UV) and Trolox**.
+- **Arbitrary units:** the legends of Figures 3–6 say AU values are "fold change… (AU control = 1)", but the control
+  bars are about 3.9 (Fig. 4/6) and about 0.35 (Fig. 5), not 1.
+- **Western blot:** Figure 1 says "**Western Blot** for pro- and anti-apoptotic protein levels", and the Discussion
+  (p. 14) says the extracts did not change "the expression of proteins related to apoptosis". There is **no Western
+  blot method or result** anywhere in the paper.
+- **PGE2:** listed as a reference control (pp. 3–4), but no PGE2 result is reported.
+- **Reference numbering is misaligned:**
+  - [18], cited as the group's earlier beer study, is Chen et al. on skin hydration.
+  - [19], for the açai extract "characterised by our group", is Fluhr et al., a barrier review.
+  - [20], for the BJ-5ta cell line, is the COLIPA guidelines.
+  - [22], for the UVB set-up, is EU Regulation 1223/2009.
+- **pH "close to neutrality" (p. 12)** while the values are 5.7–6.2, which is slightly acidic.
+
+**Naming and wording problems (true, but minor):**
+- "**WF**" (p. 9) is not defined in the text. It matches "Cream W.F." in Figure 5, which seems to be the plain base
+  that the rest of the paper calls "**Emulsion WE**". The paper never says so.
+- **TEWL "approximately one-third"** (p. 13) fits beer (−33.6%) and yeast (−37.5%) but not spent grain (−19.3%).
+  Spent grain is also just under the "20–38%" range given in the Discussion.
+- **"Baseline values were comparable"** (p. 13), yet hop elasticity at T0 is 68.24, compared with 60.12–64.33 for the
+  others (although the SDs overlap).
+
+**Limitations of the design, not contradictions:**
+- **Colour stability** was tested only up to **3 months** (Table 3), while the other stability tests ran for 6 to 12
+  months.
+- **Conflict of interest:** two authors are employed by Recusol Srl. This is **disclosed**, and the authors state no
+  commercial or financial conflict. It is a point for critical appraisal, not a contradiction.
 
 ## Research-methods classification (links to Section 3.1)
 
