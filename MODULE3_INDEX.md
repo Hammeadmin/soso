@@ -14,15 +14,17 @@ in the repository**, so Section 3.3 questions cannot be answered from these sour
 
 | # | File | What it is | Likely role |
 |---|------|------------|-------------|
-| A | `Development setting and methods_ (1).pdf` (35 slides) | Laurea lecture slides, *Development Setting and Methods* (Satu Vuorela; PDF metadata author: Kaisa Logren) | **3.1** General information / foundations |
-| B | `Social Science Research_ Principles Methods and Practices-1 (1).pdf` (159 pp.) | Bhattacherjee, A. (2012). *Social Science Research: Principles, Methods, and Practices* (2nd ed.). USF Scholar Commons, Textbooks Collection 3. | **3.2** candidate (research-methods textbook) |
-| C | `QuantitativeAnalysis-theguideforbeginners-JulianCardenas (1) (1).pdf` (54 pp.) | Cárdenas, J. (2019). *Quantitative Analysis: The Guide for Beginners*. (ResearchGate, book). | **3.2** candidate / quantitative support |
+| A | `Development setting and methods_ (1).pdf` (35 slides) | Laurea lecture slides, *Development Setting and Methods* (Satu Vuorela; PDF metadata author: Kaisa Logren) | **3.1** background literature (development work and methods) |
+| B | `Social Science Research_ Principles Methods and Practices-1 (1).pdf` (159 pp.) | Bhattacherjee, A. (2012). *Social Science Research: Principles, Methods, and Practices* (2nd ed.). USF Scholar Commons, Textbooks Collection 3. | **3.1** background literature (research-methods textbook) |
+| C | `QuantitativeAnalysis-theguideforbeginners-JulianCardenas (1) (1).pdf` (54 pp.) | Cárdenas, J. (2019). *Quantitative Analysis: The Guide for Beginners*. (ResearchGate, book). | **3.1** background literature (quantitative methods) |
 
 | D | `Hyer_An introduction to quantitative and qualitative approaches for researchers.pdf` (5 pp.) | Hyer, S. (2024). *South Sudan Medical Journal* 17(4):202–206 | **3.2 assigned article**. Full notes: [`HYER_STUDY_NOTES.md`](HYER_STUDY_NOTES.md) |
 
 | E | `Hoti et al_Cosmetic_Efficacy_and_Sustaina_BSG.pdf` (18 pp.) | Hoti et al. (2026). *Cosmetics* 13(2):63 | **3.3 assigned article**. Full notes: [`HOTI_STUDY_NOTES.md`](HOTI_STUDY_NOTES.md) |
 
 **E (Hoti et al. 2026)** fills the Section 3.3 gap flagged above.
+
+**Confirmed by the module text:** A, B and C are Section 3.1 "literature of research methods". D (Hyer) is the Section 3.2 multiple-choice article. E (Hoti) is the Section 3.3 short-answer article.
 
 The user confirmed that **D (Hyer 2024)** is the article the Section 3.2 questions are based on.
 
