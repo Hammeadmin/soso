@@ -101,7 +101,7 @@ Formulation-Driven In Vitro and In Vivo Evaluation. *Cosmetics* 13(2), 63. doi:1
 | Duration | **30 days**, daily application; measured at T0 and T30 | 2.9, p.6; 2.10, p.7 |
 | Instruments | Non-invasive tools from Delfin Technologies (Finland): **VapoMeter®** (TEWL), **MoistureMeterSC®** (hydration), **ElastiMeter®** (elasticity) | 2.9, p.6 |
 | Design and bias control | **Randomised split-forearm**; products assigned by an independent staff member; **double-blind** (volunteers and investigator); controlled environment | 2.9, p.6 |
-| Measurement sites | Fig. 2: 3 zones per forearm, 6 measurement points each; Ref (vehicle) on both arms | Fig. 2, p.6 |
+| Measurement sites | Fig. 2: 3 zones per forearm, 6 measurement points each; legend says Ref on both arms, drawing shows it on one | Fig. 2, p.6 |
 | Ethics | Helsinki and COLIPA; written informed consent; dermatologist supervision | p.17 |
 
 ### Statistics
@@ -116,7 +116,7 @@ Formulation-Driven In Vitro and In Vivo Evaluation. *Cosmetics* 13(2), 63. doi:1
 
 | Question topic | Key answer | Where |
 |---|---|---|
-| Free extracts, MTS | No significant change at any concentration; no toxicity → cytocompatible | 3.3, p.8 |
+| Free extracts, MTS | No significant change at any concentration; no toxicity → cytocompatible; beer and wort slightly (not significantly) higher at 0.5 mg/mL; açai, PGE2 and Trolox controls ≈ untreated control (Fig. 3) | 3.3, p.8 |
 | Free extracts, TAC | No significant difference after UV, even with açai or Trolox (text) | 3.4, p.8 |
 | Free extracts at 10 mg/mL | Beer, hops and spent grain **reduced viability** (dose-dependent toxicity) | 3.6, p.9 |
 | Creams, MTS | Creams raised viability; beer, yeast and spent grain significant; yeast highest (Fig. 5) | 3.6, pp.9–10 |

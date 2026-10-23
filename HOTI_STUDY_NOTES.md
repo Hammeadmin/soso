@@ -121,7 +121,7 @@ added on cooling at **40 °C**. The pH is adjusted to **6.0**, using **triethano
 ### Physicochemical stability (2.7)
 
 - **Measured:** density (by weighing), pH (Jenway 3510 meter) and viscosity (Mettler Toledo viscometer).
-- **Accelerated stability:** centrifugation at **4000 rpm, 30 min, 20 °C**, plus storage at **4 °C and 40 °C**.
+- **Accelerated stability:** centrifugation at **4000 rpm, 30 min, 20 °C**, plus storage at **4 °C and 40 °C** (the methods, p. 5, call this accelerated; the results, p. 11, call the same 6-month storage "long-term").
 - **Long-term stability:** room temperature for **up to 12 months**.
 - **Colour:** measured with a Konica Minolta CR-400 colorimeter in **CIELAB**, using **ΔE\*ab = √(ΔL\*² + Δa\*² + Δb\*²)**.
 
@@ -152,8 +152,10 @@ The test follows **ISO 11930:2012, Criterion A**.
 - **Design:**
   - **Randomised split-forearm.** An **independent staff member** assigned products to forearm areas.
   - **Double-blind:** neither the volunteers nor the person taking measurements knew which product was where.
-  - **Figure 2 (p. 6):** each forearm has 3 zones with **6 measurement points per zone**. For example, the right arm
-    gets Ref, Emu1 and Emu2, and the left arm gets Ref, Emu3, Emu4 and Emu5.
+  - **Figure 2 (p. 6):** each forearm drawing has 3 zones with **6 measurement points (x6) per zone**. The drawing shows
+    Ref, Emu1 and Emu2 on one forearm and Emu3, Emu4 and Emu5 on the other. The legend says the left arm got "again"
+    Ref as well, which the drawing doesn't show. The legend also calls Ref the emulsion "with any active ingredient",
+    a typo for "without".
 - **Ethics (p. 17):**
   - written **informed consent**
   - supervision by a **dermatologist**
@@ -202,7 +204,7 @@ These yields mean the water-soluble polar compounds were recovered efficiently.
 - **Limitation:** a single immortalised cell line does not reflect real skin. Primary fibroblasts, keratinocytes or
   reconstructed skin would be closer. The in vivo study partly offsets this.
 
-### Free extracts, TAC after UV (3.4, p. 8, Figure 4)
+### Free extracts, TAC after UV (3.4, text p. 8, Figure 4 on p. 9)
 
 - **No significant difference** at any concentration, and açai and Trolox were not significant either.
 - **Limitation:** the TAC assay misses fast or pathway-specific changes in ROS (reactive oxygen species). No
@@ -216,7 +218,7 @@ These yields mean the water-soluble polar compounds were recovered efficiently.
   the product stays on, the skin barrier and delivery.
 - Lower cytotoxicity with emulsions reflects controlled bioavailability. It is **not proof of absolute safety**.
 
-### Formulations, MTS (3.6, p. 9, Figure 5)
+### Formulations, MTS (3.6, text p. 9, Figure 5 on p. 10)
 
 - **Free extracts at 10 mg/mL:** beer, hops and spent grain **reduced viability**, showing concentration-dependent
   cytotoxicity.
@@ -233,6 +235,9 @@ These yields mean the water-soluble polar compounds were recovered efficiently.
 - **Beer and yeast emulsions** significantly increased TAC compared with untreated cells and Emulsion WE. The other
   emulsions showed a non-significant upward trend.
 - **UV control:** UV alone significantly lowered TAC (about 4.0 down to 3.1 AU).
+- **Figure 6 detail:** asterisks are on the UV control, Cream W.F., and the beer and yeast creams. The beer cream (≈ 3.65)
+  and the yeast cream (≈ 3.88) are higher than the **UV** control but **not** higher than the non-UV control (≈ 3.97).
+  So "increased TAC compared to untreated cells" only holds against the UV-exposed control.
 - **Why the emulsion works better:**
   - **Free extract:** immediate full exposure, poor uptake, breakdown outside the cell, and non-specific interactions
     with the medium.
@@ -298,7 +303,7 @@ Percentage changes were calculated from Table 4.
   | In vivo measure | Spearman ρ | p | Significant? |
   |---|---|---|---|
   | **Elasticity** | **≈ 0.94** | ≈ 0.0048 | Yes |
-  | **Hydration** | **≈ 0.83** | ≈ 0.042 | Yes |
+  | **Hydration** | **≈ 0.83** | ≈ 0.0416 | Yes |
   | **TEWL** | **≈ 0.77** | — | No (trend only) |
 
 - **Overall ranking:** yeast (Emu4) and beer (Emu1) were best both in vitro and in vivo. Wort and hops did little
@@ -378,11 +383,18 @@ Percentage changes were calculated from Table 4.
 - **Figure 4 vs text (p. 8):** the text says "açai extract and Trolox did **not** cause significant changes", but
   Figure 4 shows an **asterisk bracket between Control (UV) and Trolox**.
 - **Arbitrary units:** the legends of Figures 3–6 say AU values are "fold change… (AU control = 1)", but the control
-  bars are about 3.9 (Fig. 4/6) and about 0.35 (Fig. 5), not 1.
+  bars are about 1.85 (Fig. 3), 3.85 (Fig. 4), 0.35 (Fig. 5) and 3.97 (Fig. 6), not 1.
+- **Figure 6 vs text (p. 10):** the beer and yeast creams are said to increase TAC "compared to untreated cells", but
+  they are only above the UV control (≈ 3.1), not the non-UV control (≈ 3.97).
+- **Figure 2 (p. 6):** the legend says Ref is applied to both forearms, but the drawing shows Ref on one forearm only.
+- **"Accelerated" vs "long-term":** the methods (p. 5) call 4 °C and 40 °C storage accelerated; the results (p. 11)
+  call the same 6-month storage "long-term".
+- **Ethics:** no ethics-committee approval or number is given, only dermatologist supervision (p. 17). The challenge
+  test gives no log counts, and the patch test gives no sample size (p. 13).
 - **Western blot:** Figure 1 says "**Western Blot** for pro- and anti-apoptotic protein levels", and the Discussion
   (p. 14) says the extracts did not change "the expression of proteins related to apoptosis". There is **no Western
   blot method or result** anywhere in the paper.
-- **PGE2:** listed as a reference control (pp. 3–4), but no PGE2 result is reported.
+- **PGE2:** a PGE2 result does appear in Figure 3 (p. 8), where it shows no change vs control, but it is never discussed in the text.
 - **Reference numbering is misaligned:**
   - [18], cited as the group's earlier beer study, is Chen et al. on skin hydration.
   - [19], for the açai extract "characterised by our group", is Fluhr et al., a barrier review.
